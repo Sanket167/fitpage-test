@@ -1,0 +1,28 @@
+
+
+.scan-ul.headers li a {
+    color: #fff;
+}
+
+.scan-ul.headers li {
+    padding: 10px;
+    border-bottom: 1px dotted #ececec;
+}
+
+.scan-ul.headers {
+    padding-left: 5px;
+}
+
+.scan-ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.scan-ul.headers li a {
+    color: #fff;
+}
